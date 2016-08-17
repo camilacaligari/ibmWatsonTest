@@ -1,0 +1,182 @@
+#corpo {
+	background-color:#171A1C;
+	color:#555555;
+	font-family: Helvetica Neue for IBM, Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-weight: 100;
+	color: white;
+	font-size:20px;
+
+}
+
+canvas {
+	position: relative;
+	margin:0 auto;
+	margin-top: 50px;
+}
+
+#home{
+	text-align:center;
+	background-color: #171A1C;
+
+	}
+
+#sec1{
+	background: src(#bg);
+}
+
+h4 {
+	font-family: sans-serif;
+	color:#555555; font-size:16px;
+}
+
+h3 {
+	font-family: sans-serif;
+	color:#555555;
+}
+
+p {
+	font-family: Helvetica Neue for IBM, Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-weight: 100;
+	color: white;
+	font-size:20px;
+}
+
+
+
+a {
+	font-family: Helvetica Neue for IBM, Helvetica Neue, Helvetica, Arial, sans-serif;
+	color:#171A1C !important;
+	text-decoration:none !important;
+}
+
+
+.arte{
+	width: 33%;
+	min-width:300px;
+	max-width:480px;
+	z-index: 10;
+	position: absolute;
+	right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -510px;
+}
+
+.formulario{
+	margin-top: 30px;
+}
+
+.formulario input{
+	width: 55%;
+	right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+	background-color: transparent;
+	color:#D9FF00;
+	border: 1px solid #D9FF00;
+}
+
+
+.seta{
+	margin-top: 30px;
+}
+
+
+
+.arte i{
+	color:#D9FF00;
+	font-size: 30pt;
+	margin-top: -100px;
+}
+
+.seta p{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	color:#D9FF00;
+}
+
+.fundo{
+	background-size: cover;
+	background-image: url("http://jeeves.mybluemix.net/img/ilustra2.svg");
+
+}
+
+
+#ola section{
+	height: auto;
+
+}
+
+.espaco{
+	height: 200px;
+}
+
+#ola{
+	margin-top: 200px;
+}
+
+
+#boasVindas{
+	width: 50%;
+	right: 0;
+    left: 0;
+    right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+   
+}
+
+
+
+span{
+	color:#D9FF00;
+	font-weight: 400;
+}
+
+#ibmText{
+	color:#7cc7ff;
+	font-weight: 400;
+}
+
+.tag{
+	color: #D9FF00;
+	font-weight: bold;
+	margin-top: 20px;
+
+}
+
+ul{
+	text-decoration: none;
+	list-style: none;
+	padding:20px;
+	font-size: 18px;
+}
+
+li:before {
+  content: "\f00c"; 
+  font-family: FontAwesome;
+  display: inline-block;
+  margin-left: -1.3em; 
+  width: 1.3em;
+  font-size: 15px;
+  font-weight: 100;
+  color:#D9FF00;
+}
+
+
+
+.botao button{
+	margin-top: 30px;
+	background-color: #D9FF00;
+	border: 1px solid #D9FF00;
+	font-weight: bold;
+	font-size: 15px;
+	padding: 5px;
+	width: 110px;
+	margin-bottom: 100px;
+	margin-right: 300px;
+
+}
